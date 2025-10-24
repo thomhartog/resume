@@ -21,8 +21,8 @@ Experienced software engineer with 5+ years developing scalable web applications
 
 ## Experience
 
-### Senior Software Engineer
-**Tech Company Inc.** | *2022 - Present*
+### Data Engineer
+**Centraal Boekhuis** | *2022 - Present*
 - Led development of microservices architecture serving 1M+ users
 - Mentored 3 junior developers and conducted code reviews
 - Improved application performance by 40% through optimization
@@ -63,3 +63,4 @@ Experienced software engineer with 5+ years developing scalable web applications
 - Developed collaborative task management tool with real-time updates
 - Used WebSocket for live collaboration features
 - Open source project with 500+ GitHub stars
+
